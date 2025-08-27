@@ -9,4 +9,3 @@ Environment versions:
   optuna        4.5.0
   tensorflow    2.19.0
   pvlib         0.13.0
-GPU available: False 
