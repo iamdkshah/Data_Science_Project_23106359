@@ -2,9 +2,9 @@
 # Short-Term Solar Irradiance Forecasting
 
 
-NOTE:> !!! PLEASE GO THROUGH D_S_Project_23106359_19.ipynb FILE, D_S_Project_23106359.ipynb MAY NOT DISPLAY CODE AND OUTPUT GRAPHS ON THIS PAGE works on notebook though. THANK YOU!!!
+NOTE:> !!! PLEASE GO THROUGH D_S_Project_23106359_19.ipynb FILE, D_S_Project_23106359.ipynb MAY NOT DISPLAY CODE AND OUTPUT GRAPHS ON THIS PAGE, works on notebook though. THANK YOU!!!
 
-NOTE: (T+H), H can be replaced with (1,2...12) for multi-horizons forecasting. In this project as I have predicted 1 hour ahead, its 't+2', my data are at 30-minute intervals, a 1-hour-ahead forecast is two steps ahead (2 × 30 min = 60 min).
+NOTE: Multi_Horizons Platform: (T+H), H can be replaced with (1,2...12) for multi-horizons forecasting. In this project as I have predicted 1 hour ahead, its 't+2', my data are at 30-minute intervals, a 1-hour-ahead forecast is two steps ahead (2 × 30 min = 60 min).
 
 One-Hour-Ahead Solar Irradiance Forecasting Using
 Machine Learning and Deep Learning Models: A
